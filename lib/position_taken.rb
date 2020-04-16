@@ -5,4 +5,4 @@ def position_taken?(board, index)
  index = []
 end
 def position_taken?(board, index)
-  if 
+  if  
